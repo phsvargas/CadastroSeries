@@ -8,6 +8,6 @@ namespace CadastroSeries
 {
     public abstract class EntidadeBase
     {
-        public int id { get;protected set; }
+        public int Id { get;protected set; }
     }
 }
